@@ -13,11 +13,9 @@ Author: Samuel Finnerty
 
 Goal | Item | Link to Item
 --- | --- | ---
-+ Analysis R Script |  run_analysis.R |  [R Script Link]
-(https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/blob/main/run_analysis.R)
++ Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/blob/main/run_analysis.R "run_analysis.R")
 
-+ Tidy Data Set |  Clean Data Set |  [Data Set Link] 
-+ (https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/commit/350a6921def7c1984283dfdcdea86728de23720d)
++ Tidy Data Set |  Clean Data Set |  [Data Set Link] (https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/commit/350a6921def7c1984283dfdcdea86728de23720d)
 
 + Cookbook | CodeBook.md |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
 + README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
