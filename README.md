@@ -1,6 +1,8 @@
 # Getting-and-Cleaning-Data-Course-Project
 
 Author: Samuel Finnerty
+Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
+
 
 ## Goal of the Project
 
@@ -14,8 +16,6 @@ Author: Samuel Finnerty
 Goal | Item | Link to Item
 --- | --- | ---
 + Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/blob/main/run_analysis.R "run_analysis.R")
-
 + Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/commit/350a6921def7c1984283dfdcdea86728de23720d "tidyData.txt")
-
-+ Cookbook | CodeBook.md |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/CodeBook.md "CodeBook.md")
-+ README | ReadingItNow |  [Repo Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/README.md "README.md")
++ Cookbook | CodeBook.md |  [Repo Link](https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/blob/main/CodeBook.md "CodeBook.md")
++ README | ReadingItNow |  [Repo Link](https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/blob/main/README.md "README.md")
