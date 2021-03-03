@@ -11,6 +11,8 @@ Author: Samuel Finnerty
 
 ## Review Criteria 
 
+Goal | Item | Link to Item
+--- | --- | ---
 + Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/blob/main/run_analysis.R)
 
 + Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/samuelfinnerty/Getting-and-Cleaning-Data-Course-Project/commit/350a6921def7c1984283dfdcdea86728de23720d)
